@@ -23,6 +23,21 @@ I enjoy working across the whole product—from shaping the backend and data mod
 - Background jobs, integrations, and reliable data flows
 - Building and shipping complete products
 
+## Working set
+
+| Area | Tools and concepts |
+| --- | --- |
+| Backend | Python, Django, Django REST Framework, Go, C#, ASP.NET Core, Celery |
+| Frontend & mobile | TypeScript, React, Next.js, React Native, Expo |
+| Data & architecture | PostgreSQL, PostGIS, Redis, MSSQL, multi-tenancy, RBAC, event-driven workflows |
+| Delivery | Docker, GitHub Actions, Nginx, Linux, DigitalOcean, AWS S3, Firebase |
+
+---
+
+I enjoy conversations about product architecture, operational software, and the trade-offs behind systems that have to work in the real world.
+
+**[See the full picture at gokceguler.com →](https://gokceguler.com)**
+
 ## Building
 
 ### [MaritimeOS](https://github.com/gokcenizamoglu/maritime-os) — in active development
@@ -45,17 +60,3 @@ A backend service for recruitment workflows, designed around explicit domain bou
 
 `Python` · `Django REST Framework`
 
-## Working set
-
-| Area | Tools and concepts |
-| --- | --- |
-| Backend | Python, Django, Django REST Framework, Go, C#, ASP.NET Core, Celery |
-| Frontend & mobile | TypeScript, React, Next.js, React Native, Expo |
-| Data & architecture | PostgreSQL, PostGIS, Redis, MSSQL, multi-tenancy, RBAC, event-driven workflows |
-| Delivery | Docker, GitHub Actions, Nginx, Linux, DigitalOcean, AWS S3, Firebase |
-
----
-
-I enjoy conversations about product architecture, operational software, and the trade-offs behind systems that have to work in the real world.
-
-**[See the full picture at gokceguler.com →](https://gokceguler.com)**
